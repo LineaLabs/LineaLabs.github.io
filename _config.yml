@@ -1,3 +1,4 @@
 theme: jekyll-theme-hacker
 title: Linea Labs
 description: tools for full-stack data scientists
+show_downloads: "false"
